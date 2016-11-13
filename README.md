@@ -18,6 +18,10 @@ Gherkin plugin is working with Android Studio 2.0. Manual translation is still r
 
 Install Plugin: Android Studio > Preferences > Plugins > Search "Gherkin" > Install & Restart Android Studio
 
+###UPDATE (13/11/2016):
+Cucumber for Groovy is also avalible for IntellJ/Android Studio. This plugin enables Cucumber support with step definitions written in Groovy.
+Install Plugin: Android Studio > Preferences > Plugins > Search "Cucumber for Groovy" > Install & Restart Android Studio
+
 ##Setup
 1. Create custom instrumentation runner
 
